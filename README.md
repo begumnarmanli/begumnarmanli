@@ -13,6 +13,10 @@ If you'd like to learn more about me or collaborate, please feel free to check o
 
 Thanks and happy coding! 🤩
 
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=begumnarmanli&show_icons=true&theme=radical) 
+
 <!---
 begumnarmanli/begumnarmanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
