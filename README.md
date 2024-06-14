@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Artificial Intelligence
 - 🌱 I’m currently learning new things about Data Analysis
 
-![jr  data analyst](https://github.com/begumnarmanli/begumnarmanli/assets/159467416/8722bf14-a95f-4de2-becb-614e250ba2f7)
+![jr data analyst](https://github.com/begumnarmanli/begumnarmanli/assets/159467416/9f29e21a-a6f1-4dd0-916f-783da9c91753)
 
 Hello! I'm Begüm, and I'm here on GitHub to share my coding journey. I use this platform to showcase my passion for software development and my eagerness to learn.
 I have a strong interest in computer science and software engineering, and I'm constantly striving to improve my skills in these areas.
