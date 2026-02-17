@@ -26,9 +26,10 @@ I am a passionate Full Stack Developer dedicated to building robust and scalable
 ---
 
 ### 📈 GitHub Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=begumnarmanli&show_icons=true&theme=radical" alt="Begum Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=begumnarmanli&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=begumnarmanli&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=begumnarmanli&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ---
@@ -36,12 +37,12 @@ I am a passionate Full Stack Developer dedicated to building robust and scalable
 ### 📫 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/begumnarmanli/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:begumnarmanli@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+  <a href="https://www.linkedin.com/in/begumnarmanli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:begumnarmanli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 - 💼 **LinkedIn:** [linkedin.com/in/begumnarmanli](https://www.linkedin.com/in/begumnarmanli/)
@@ -49,7 +50,6 @@ I am a passionate Full Stack Developer dedicated to building robust and scalable
 
 ---
 
-"I strive not only to showcase my coding skills but also to demonstrate my creativity through clean and efficient code."
+> *"I strive not only to showcase my coding skills but also to demonstrate my creativity through clean and efficient code."*
 
----
 *Happy coding!* 🤩
