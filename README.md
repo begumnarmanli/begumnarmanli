@@ -1,24 +1,53 @@
- # Hi, I’m @begumnarmanli
-- 👀 I’m interested in Data Science, Artificial Intelligence
-- 🌱 I’m currently learning new things about Data Analysis
+# Hi there! I'm Begüm Narmanlı 👋
 
-![jr data analyst](https://github.com/begumnarmanli/begumnarmanli/assets/159467416/9f29e21a-a6f1-4dd0-916f-783da9c91753)
+### 🚀 Full Stack Developer | Frontend & Backend Enthusiast
 
-Hello! I'm Begüm, and I'm here on GitHub to share my coding journey. I use this platform to showcase my passion for software development and my eagerness to learn.
-I have a strong interest in computer science and software engineering, and I'm constantly striving to improve my skills in these areas.
-My projects are often open source, aimed at sharing my experiences and learnings in the software development process with others.
-Beyond coding, fueled by my passion for technology, I enjoy chasing innovative ideas. Therefore, in my projects, I strive not only to showcase my coding skills but also to demonstrate my creativity.
-On my GitHub profile, you can find the projects I've been working on, contribute to them, or simply take a look around.
-I continue to keep up with developments in the world of technology and software and am always happy to collaborate on new projects and learn.
-If you'd like to learn more about me or collaborate, please feel free to check out my GitHub profile or send me a message!
+I am a passionate Full Stack Developer dedicated to building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive designs. Currently, I am focused on mastering modern web technologies and contributing to impactful open-source projects.
 
-Thanks and happy coding! 🤩
+---
 
+### 🛠️ Tech Stack & Skills
 
+**Frontend Development**
+- React.js, JavaScript (ES6+), HTML5, CSS3 (Sass/Modules)
+- Redux / Toolkit, Context API
+- Responsive Web Design
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=begumnarmanli&show_icons=true&theme=radical) 
+**Backend Development**
+- Node.js, Express.js
+- Firebase (Authentication, Realtime Database, Firestore)
+- RESTful APIs
 
-<!---
-begumnarmanli/begumnarmanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tools & Others**
+- Git & GitHub, Postman
+- Figma (UI/UX Design implementation)
+- Agile Methodologies
+
+---
+
+### 📈 GitHub Stats
+![Begum's GitHub stats](https://github-readme-stats.vercel.app/api?username=begumnarmanli&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begumnarmanli&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/begumnarmanli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:begumnarmanli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+- 💼 **LinkedIn:** [linkedin.com/in/begumnarmanli](https://www.linkedin.com/in/begumnarmanli/)
+- 📧 **Email:** begumnarmanli@gmail.com
+
+---
+
+"I strive not only to showcase my coding skills but also to demonstrate my creativity through clean and efficient code."
+
+---
+*Happy coding!* 🤩
