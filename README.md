@@ -26,8 +26,10 @@ I am a passionate Full Stack Developer dedicated to building robust and scalable
 ---
 
 ### 📈 GitHub Stats
-![Begum's GitHub stats](https://github-readme-stats.vercel.app/api?username=begumnarmanli&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begumnarmanli&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=begumnarmanli&show_icons=true&theme=radical" alt="Begum's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=begumnarmanli&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
